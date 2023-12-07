@@ -1,0 +1,24 @@
+a, a:active, a:visited{
+    color: black !important;
+    font-style: none !important;
+    font-family: none !important;
+    text-decoration: none !important;
+}
+
+a:hover{
+    color: palegoldenrod !important;
+}
+
+#hatter{
+    background-image: url(../images/Cutecoffebackground.jpg);
+    background-size: 1000px;
+    background-repeat: repeat;
+}
+
+.kozepe {
+    align-content: center;
+    align-items: center;
+    vertical-align: middle;
+    align-self: center;
+    text-align: justify;
+}
