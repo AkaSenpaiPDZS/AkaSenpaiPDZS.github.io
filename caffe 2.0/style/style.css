@@ -1,0 +1,20 @@
+a, a:hover, a:active, a:visited{
+    color: black;
+    font-style: none;
+    font-family: none;
+    text-decoration: none;
+}
+
+#hatter{
+    background-image: url(/images/Cutecoffebackground.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.kozepe {
+    align-content: center;
+    align-items: center;
+    vertical-align: middle;
+    align-self: center;
+    text-align: justify;
+}
